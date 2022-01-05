@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MarioMi77
 - 👀 I’m interested in Data and Financial Analytics
-- 🌱 I’m currently learning 
+- 🌱 I’m currently learning data Science on my spare time
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
